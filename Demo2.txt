@@ -47,3 +47,4 @@
 			String sql = "insert into Student(Id,name) values(" + "'" + ans1 + "'" + "," + "'" + ans2 + "'" + ");";
 			stmnt.execute(sql);
 System.out.println("Programm done");
+aniket
